@@ -28,5 +28,5 @@
 
 ---
 
-📣 Agradecimentos
+📣 Agradecimentos:
 Agradeço aos profissionais qualificados do meu estágio, do meu curso técnico de ads e aos mentores da minha faculdade por todo o apoio pessoal e profissional oferecido nessa jornada.
