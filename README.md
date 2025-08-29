@@ -24,7 +24,7 @@
 
 📱 Contato
 - ✉️ Email: danileo.anselmo@gmail.com
-- 🔗 GitHub: [Leonardo Bastos](https://github.com/seu-usuario)
+- 🔗 GitHub: [[Leonardo Bastos](https://github.com/seu-usuario)](https://github.com/Kaynsz)
 
 ---
 
